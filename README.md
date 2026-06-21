@@ -5,7 +5,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Database+Administrator;Building+Scalable+REST+APIs+and+GraphQL+Services;Architecting+High-Performance+Database+Systems;Docker+%7C+DevOps+%7C+Cloud+Infrastructure;Cybersecurity+and+Secure+Software+Development" alt="Typing SVG" />
 </div>
+<div align="center">
 
+<a href="https://github.com/MuhammadHaroonRashid">
+  <img src="https://img.shields.io/badge/GitHub-MuhammadHaroonRashid-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:haroonrashid8187@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-haroonrashid8187%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wa.me/923556078187">
+  <img src="https://img.shields.io/badge/WhatsApp-+92--355--607--8187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</div>
 <br/>
 
 <div align="center">
