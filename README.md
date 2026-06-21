@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+production-grade+REST+APIs+%26+GraphQL+services;🗄️+Architecting+high-performance+database+systems;🐳+Shipping+Dockerized+microservices+%26+CI%2FCD+pipelines;🔐+Enforcing+DevSecOps+%26+OWASP-aligned+API+security;🤖+Integrating+AI%2FML+into+real-world+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Database+Administrator;Building+Scalable+REST+APIs+and+GraphQL+Services;Architecting+High-Performance+Database+Systems;Docker+%7C+DevOps+%7C+Cloud+Infrastructure;Cybersecurity+and+Secure+Software+Development" alt="Typing SVG" />
 </div>
 
 <br/>
