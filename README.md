@@ -1,34 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Haroon%20Rashid&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Database%20Administrator&descAlignY=58&descSize=15&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Haroon%20Rashid&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Quality%20Analyst&descAlignY=58&descSize=13&descColor=a0c4ff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Database+Administrator;Building+Scalable+REST+APIs+and+GraphQL+Services;Architecting+High-Performance+Database+Systems;Docker+%7C+DevOps+%7C+Cloud+Infrastructure;Cybersecurity+and+Secure+Software+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Engineer;AI+Engineer;DevSecOps+Engineer;Quality+Analyst;Building+Scalable+REST+APIs+%26+GraphQL;Microservices+%7C+WebRTC+%7C+Real-Time+Systems;Docker+%7C+CI%2FCD+%7C+Cloud+Infrastructure;Security-First+%7C+AI-Native+%7C+Production-Grade" alt="Typing SVG" />
 </div>
-<div align="center">
-
-<a href="https://github.com/MuhammadHaroonRashid">
-  <img src="https://img.shields.io/badge/GitHub-MuhammadHaroonRashid-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:haroonrashid8187@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-haroonrashid8187%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://wa.me/923556078187">
-  <img src="https://img.shields.io/badge/WhatsApp-+92--355--607--8187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-</div>
-<br/>
 
 <div align="center">
+  <a href="https://github.com/MuhammadHaroonRashid">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadHaroonRashid-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
   <a href="mailto:haroonrashid8187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-haroonrashid8187%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-haroonrashid8187%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
   <a href="https://wa.me/923556078187">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B92--355--607--8187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2B92--355--607--8187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=MuhammadHaroonRashid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -40,22 +28,26 @@
 
 ```typescript
 const haroon = {
-  role:       "Full Stack Developer  |  Backend Engineer  |  Database Administrator",
-  experience: "1+ year professional · freelance & client projects",
-  focus:      ["Scalable APIs", "Microservices", "Database Architecture", "DevSecOps"],
+  role:       ["Full Stack Developer", "Backend Engineer", "AI Engineer", "DevSecOps Engineer", "Quality Analyst"],
+  education:  "Software Engineering (SE-23) @ NuTech — 6th Semester",
+  experience: "1+ year · freelance & client projects across diverse industries",
+  focus:      ["Scalable APIs", "AI Integration", "Microservices", "Database Architecture", "DevSecOps"],
   backend:    ["Node.js", "NestJS", "FastAPI", "Django", "Flask"],
+  frontend:   ["React.js", "Next.js", "Expo Router", "TypeScript", "Tailwind CSS"],
   databases:  ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  devops:     ["Docker", "GitHub Actions", "Jenkins", "Nginx", "Linux"],
-  currently:  "Building secure, optimized, and maintainable software that ships",
+  ai:         ["Vercel AI SDK", "LangChain", "Google Gemini", "TensorFlow", "OpenCV"],
+  devops:     ["Docker", "GitHub Actions", "Jenkins", "Nginx", "Linux", "Cloudflare"],
+  projects:   ["HyperChat", "TalentBridge", "DockerCloud", "AquaVision", "Aether", "BYOSecure"],
+  currently:  "Engineering BYOSecure — E2E encrypted, AI-powered cross-platform communication",
 };
 ```
 
 - 🔭 Freelancing across diverse industries — delivering APIs, databases, and full-stack products end to end
+- 🤖 AI engineering: Vercel AI SDK · LangChain · Google Gemini · streaming pipelines · AI-native architectures
 - 🛡️ Security-first mindset: JWT · OAuth2 · bcrypt · SSL/TLS · OWASP API hardening on every project
 - 🐳 Docker-native: containerised microservices, Nginx reverse proxy, CI/CD automation from day one
-- 📡 Real-time systems expertise: WebSockets · Socket.io · WebRTC peer-to-peer audio/video
-- 🤖 Applied AI/ML: deep learning models, computer vision, workflow automation
-- 📱 Cross-platform mobile: React Native & Android (Java) with biometric authentication
+- 📡 Real-time systems: WebSockets · Socket.io · WebRTC peer-to-peer audio/video · screen sharing
+- 📱 Cross-platform mobile: Expo Router (iOS · Android · Web) with biometric authentication
 - 🎯 Philosophy: **ship clean code, document everything, and never cut corners on security**
 
 ---
@@ -79,6 +71,7 @@ const haroon = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -112,10 +105,17 @@ const haroon = {
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-005C84?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-### 🤖 AI & Mobile
+### 🤖 AI & Machine Learning
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📱 Mobile
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -139,7 +139,9 @@ const haroon = {
 | 🏢 | **TalentBridge** | Dual-sided job portal with applicant tracking, profile management, and 3-tier RBAC (Admin · Employer · Applicant) | Node.js · PostgreSQL · Sequelize · OAuth2 · Tailwind |
 | 🐳 | **DockerCloud** | Self-hosted microservices suite — VPN, cloud OS, web IDE, file storage — all behind Nginx with Cloudflare Tunnel | Docker · Nginx · WireGuard · Cloudflare · SSL/TLS |
 | 🤖 | **AquaVision** | Deep learning engine that recovers clarity and corrects colour distortion in underwater images — packaged as a desktop app | Python · TensorFlow · OpenCV · NumPy · PyQt5 |
-| 🔐 | **SecureVault** | Android app with biometric MFA (fingerprint + facial recognition) and AES-encrypted role-based data storage | Android Java · BiometricPrompt API · SQLite · AES |
+| 🚀 | **Aether** | AI SaaS platform with multi-model streaming chat, usage metering, and subscription billing | Next.js · Vercel AI SDK · PostgreSQL · Prisma · Stripe |
+| 🔐 | **BYOSecure** | End-to-end encrypted, AI-powered cross-platform app — secure chat, calling, multiplayer gaming & private storage | Expo Router · NestJS · WebRTC · AES-256 · AI Integration |
+| 🛡️ | **SecureVault** | Android app with biometric MFA (fingerprint + facial recognition) and AES-encrypted role-based data storage | Android Java · BiometricPrompt API · SQLite · AES |
 | 🔄 | **CI/CD Framework** | Multi-stage pipeline: build → lint → test → security scan → Docker push → automated staging & production deploy | GitHub Actions · Jenkins · Jest · Docker Hub · ESLint |
 | 🏧 | **ATM Simulator** | Fully functional banking simulation — PIN auth, balance inquiry, withdrawals, deposits, transfers & transaction history | Java/C++ · JavaFX · SQLite |
 | 🖥️ | **DB Infrastructure** | Production MySQL, PostgreSQL & MongoDB servers with RBAC, slow-query logging, automated backups & failover configs | PostgreSQL · MySQL · MongoDB · Redis · Linux |
@@ -195,7 +197,4 @@ const haroon = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaroonRashid&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
