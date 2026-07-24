@@ -29,7 +29,7 @@
 ```typescript
 const haroon = {
   role:       ["Full Stack Developer", "Backend Engineer", "AI Engineer", "DevSecOps Engineer", "Quality Analyst"],
-  education:  "Software Engineering (SE-23) @ NuTech — 6th Semester",
+  education:  "Software Engineering (SE-23) @ NuTech",
   experience: "1+ year · freelance & client projects across diverse industries",
   focus:      ["Scalable APIs", "AI Integration", "Microservices", "Database Architecture", "DevSecOps"],
   backend:    ["Node.js", "NestJS", "FastAPI", "Django", "Flask"],
