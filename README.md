@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Muhammad%20Haroon%20Rashid&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%26%20LLM%20Integration%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20DevOps%20%26%20Delivery&descAlignY=54&descSize=14&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Muhammad%20Haroon%20Rashid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%26%20LLM%20Integration%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20DevOps%20%26%20Delivery&descAlignY=60&descSize=14&descColor=e2e8f0" alt="Muhammad Haroon Rashid" />
 </div>
 
 <div align="center">
@@ -265,5 +265,5 @@ const haroon = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" alt="" />
 </div>
