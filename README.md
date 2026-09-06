@@ -100,7 +100,7 @@ const haroon = {
 <tr><td><b>🤖 AI / ML</b></td><td>
 
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -213,16 +213,20 @@ const haroon = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaroonRashid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaroonRashid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+![Followers](https://img.shields.io/github/followers/MuhammadHaroonRashid?style=for-the-badge&logo=github&label=Followers&color=1f6feb&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/MuhammadHaroonRashid?style=for-the-badge&logo=github&label=Stars&color=1f6feb&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadHaroonRashid&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=1f6feb&labelColor=0d1117)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaroonRashid&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=MuhammadHaroonRashid&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MuhammadHaroonRashid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHaroonRashid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadHaroonRashid&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -250,11 +254,11 @@ const haroon = {
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:haroonrashid8187@gmail.com)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:haroonrashid8187@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/923556078187)
+[![WhatsApp](https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/923556078187)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/⭐_Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHaroonRashid)
+[![GitHub](https://img.shields.io/badge/%E2%AD%90_Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHaroonRashid)
 
 <sub>Open to remote roles and client engagements · Islamabad, Pakistan · working worldwide</sub>
 
